@@ -1,0 +1,58 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "setting": "Setting",
+  "@setting": {
+    "description": "Setting"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search"
+  },
+  "accountSettings": "Account Settings",
+  "@accountSettings": {
+    "description": "Account settings"
+  },
+  "changePassword": "Change password",
+  "@changePassword": {
+    "description": "Change password"
+  },
+  "addPaymentMethod": "Add a payment method",
+  "@addPaymentMethod": {
+    "description": "Add payment method"
+  },
+  "pushNotifications": "Push notifications",
+  "@pushNotifications": {
+    "description": "Push notifications"
+  },
+  "darkMode": "Dark mode",
+  "@darkMode": {
+    "description": "Dark mode"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language"
+  },
+  "privacyAndSecurity": "Privacy & Security",
+  "@privacyAndSecurity": {
+    "description": "Privacy and security"
+  },
+  "privacySettings": "Privacy Settings",
+  "@privacySettings": {
+    "description": "Privacy settings"
+  },
+  "twoFactorAuthentication": "Two-factor authentication",
+  "@twoFactorAuthentication": {
+    "description": "Two factor authentication"
+  },
+  "appPreferences": "App Preferences",
+  "@appPreferences": {
+    "description": "App preferences"
+  },
+  "autoplayVideos": "Autoplay videos",
+  "@autoplayVideos": {
+    "description": "Autoplay videos"
+  }
+}

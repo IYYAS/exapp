@@ -1,0 +1,16 @@
+{
+  "helloWorld": "हैलो वर्ल्ड!",
+  "setting": "सेटिंग्स",
+  "search": "खोजें",
+  "accountSettings": "खाता सेटिंग्स",
+  "changePassword": "पासवर्ड बदलें",
+  "addPaymentMethod": "भुगतान विधि जोड़ें",
+  "pushNotifications": "पुश सूचनाएँ",
+  "darkMode": "डार्क मोड",
+  "language": "भाषा",
+  "privacyAndSecurity": "गोपनीयता और सुरक्षा",
+  "privacySettings": "गोपनीयता सेटिंग्स",
+  "twoFactorAuthentication": "दो-कारक प्रमाणीकरण",
+  "appPreferences": "ऐप प्राथमिकताएँ",
+  "autoplayVideos": "वीडियो अपने आप चलाएँ"
+}
